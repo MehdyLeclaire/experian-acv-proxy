@@ -1,0 +1,13 @@
+{
+  "name": "ExperianACVProxy",
+  "description": "This application provides a simple proxy to the Experian service for ACV app.",
+  "version": "0.0.11",
+  "private": true,
+  "dependencies": {
+    "url": "*",
+    "request": "*",
+  	"express": "*",
+    "winston": "*",
+    "express-winston": "*"
+  }
+}
