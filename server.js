@@ -41,7 +41,7 @@ app.get('/', function (req, res) {
           'id': cid,
           'password': password,
           'level': level,
-                    'sid': sid
+          'sid': sid
         }
       }
     ).pipe(res);
